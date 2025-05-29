@@ -5,7 +5,7 @@ description: >-
   Exploring Law, AI, Gita, and Self-Mastery through AMAR.
 baseurl: ""
 url: "https://blog.sajivkumar.in"
-theme: minimal-mistakes-jekyll
+theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
